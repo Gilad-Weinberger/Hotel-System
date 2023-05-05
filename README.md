@@ -11,7 +11,7 @@ Make sure to have installed:
 .NET Framework
 
 # Features
-Create a new order by providing your personal details.
-Update an order by entering your order ID.
-Delete an order by entering your order ID.
-View the room status as an admin.
+Create a new order by providing your personal details.  
+Update an order by entering your order ID.  
+Delete an order by entering your order ID.  
+View the room status as an admin.  
